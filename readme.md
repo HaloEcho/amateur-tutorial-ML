@@ -11,18 +11,67 @@
 
 
 
-## 001 Mathematical Foundations
+## 001 ML study path
 
-机器学习需要用到哪些内容呢，我看见就收集进来吧。
+[Click to view the complete study path](./Road_Path.pdf)
 
-目前有：
+### Prerequisites
 
 - 高等数学
 - 线性代数
   - [生动线性代数](http://immersivemath.com/ila/#)
 - 概率论与数理统计
+- Python
+- Jupyter Notebook
+- The Machine Learning landscape
 
+### Machine learning with Scikit-Learn
 
+- Why Scikit-Learn?
+- End-to-End Machine Learning project
+- Linear Regression
+- Classification
+- Training models
+- Support Vector Machines
+- Decision Trees
+- Ensemble Learning and Random Forest
+- Unsupervised Learning
+- Wrapping up and looking forward
+
+### Neural Networks with TensorFlow
+
+- Why TensorFlow?
+- Up and Running with TensorFlow
+- ANN - Artificial Neural Networks
+- CNN - Convolutional Neural Networks
+- RNN - Recurrent Neural Networks
+- Training Networks: Best practices
+- AutoEncoders
+- Reinforcement Learning
+- Next steps
+
+> When i write down this section,its June 10, 2019.TensorFlow 2.0 beta has been released recently.
+>
+> However maybe either TensorFlow 1.x or TensorFlow 2.x is too difficult to you as well.
+>
+> I  **strongly recommend** you the **KERAS**，which is a high-level neural networks API to utilize.
+
+### Having fun with keras
+
+- [Document](https://keras.io/)
+- Getting started
+- Keras Sequential model
+- Keras functional API
+
+> Perhaps you are confused about the **proper noun** like CNN,RNN and so on.
+>
+> Don‘t worry！You can learn them by clicking the following links.
+
+### Utilities
+
+- Machine Learning Projects
+- Data Science Tools
+- Blogs / Youtube Channels / Websites worth taking a look!
 
 ## 0X00000 Awesome Github
 
@@ -80,6 +129,7 @@
 - [深度学习(Udacity的课程)](https://link.juejin.im/?target=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fdeep-learning--ud730)
 - [CS224d：面向自然语言处理的深度学习](https://link.juejin.im/?target=http%3A%2F%2Fcs224d.stanford.edu%2F)
 - [深度学习相关的电子书(涵盖了ML的方方面面)](https://link.juejin.im/?target=https%3A%2F%2Fleonardoaraujosantos.gitbooks.io%2Fartificial-inteligence%2Fcontent%2F)
+- [MIT 深度学习导论](http://introtodeeplearning.com/)
 
 
 
