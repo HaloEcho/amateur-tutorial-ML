@@ -16,14 +16,17 @@
   <script>
     window.$docsify = {
       name: '机器学习基础',
-      repo: 'https://github.com/HaloEcho/amateur-tutorial-ML',
       relativePath: true,
-      nameLink: {
-        '/': '/'
-      },
+      repo: 'https://github.com/HaloEcho/amateur-tutorial-ML',
+      routerMode: 'history', // eliminate the impact of broser link encompass "/#/"
+      themeColor: '#CD4F39',
+      ext: '.md'
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 
 </html>
